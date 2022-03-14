@@ -52,6 +52,10 @@ PRODUCT_PACKAGES += \
     camera.universal7580 \
     Snap
 
+# Sensor
+PRODUCT_PACKAGES += \
+	libsensorservice_shim
+
 # hardware/samsung/AdvancedDisplay (MDNIE)
 PRODUCT_PACKAGES += \
     AdvancedDisplay
