@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
 
 
 PRODUCT_PACKAGES += \
-   libtfa98xx \
    audio_amplifier.universal7580 \
    libtinycompress
 
